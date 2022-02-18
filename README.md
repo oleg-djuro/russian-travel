@@ -15,4 +15,4 @@
 
 ### Пожалуйста, не судите строго и приятного просмотра!
 
-[ССЫЛКА на опубликованный на GH-PAGES проект](https://oleg.djuro.github.io/russian-travel/index.html)
+[ССЫЛКА на опубликованный на GH-PAGES проект](https://oleg-djuro.github.io/russian-travel/index.html)
